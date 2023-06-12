@@ -1,0 +1,8 @@
+D:\Users\matheus.hsilva76\source\repos\ExercicioAula7-Sala\bin\Debug\ExercicioAula7-Sala.exe.config
+D:\Users\matheus.hsilva76\source\repos\ExercicioAula7-Sala\bin\Debug\ExercicioAula7-Sala.exe
+D:\Users\matheus.hsilva76\source\repos\ExercicioAula7-Sala\bin\Debug\ExercicioAula7-Sala.pdb
+D:\Users\matheus.hsilva76\source\repos\ExercicioAula7-Sala\obj\Debug\ExercicioAula7-Sala.csproj.AssemblyReference.cache
+D:\Users\matheus.hsilva76\source\repos\ExercicioAula7-Sala\obj\Debug\ExercicioAula7-Sala.csproj.SuggestedBindingRedirects.cache
+D:\Users\matheus.hsilva76\source\repos\ExercicioAula7-Sala\obj\Debug\ExercicioAula7-Sala.csproj.CoreCompileInputs.cache
+D:\Users\matheus.hsilva76\source\repos\ExercicioAula7-Sala\obj\Debug\ExercicioAula7-Sala.exe
+D:\Users\matheus.hsilva76\source\repos\ExercicioAula7-Sala\obj\Debug\ExercicioAula7-Sala.pdb
